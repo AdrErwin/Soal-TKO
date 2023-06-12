@@ -1,0 +1,38 @@
+Tugas TKO 
+
+Tatacara : 
+- Tugas dibuat dalam bentuk PDF (Lampirkan Source code dalam PDF)
+- Tugas dibuat dalam rangka untuk mengganti perkuliah 2 pertemuan. 
+- Tugas dikumpulkan paling lambat senin 19 Juni 2023 Pukul 17.00.  
+- Tugas dikumpulkan melalui email di erwinadr@lecturer.undip.ac.id, dengan subject Nama_NIM_TKO_Tugas 
+
+Soal : 
+1. Buatlah program Matlab / Python / lainnya yang menggambarkan Grafik Respon transien dari Model yang sudah anda punya (Orde 2)
+1a. Carilah nilai Maksimum Overshoot (Mp), Waktu Tunda (td), Waktu naik (tr), Waktu turun (ts), dan Keasalahan keadaan tunak (Ess)
+2. Buatlah Program Matlab / Python / lainnya yang menggambarkan Grafik S Plane dari model yang sudah anda punya (Orde 2) 
+2a. Jelaskan hasil dari grafik S Plane tersebut ?
+
+
+Soal UAS Take home Test TKO 
+Tatacara : 
+- Tugas dibuat dalam bentuk PDF (Lampirkan Source code dalam PDF)
+- Tugas dibuat dalam rangka untuk mengganti perkuliah 2 pertemuan. 
+- Tugas dikumpulkan paling lambat senin 19 Juni 2023 Pukul 17.00.  
+- Tugas dikumpulkan melalui email di erwinadr@lecturer.undip.ac.id, dengan subject Nama_NIM_TKO_UAS
+
+Soal : 
+Orde 1
+1. Carilah contoh Model Orde 1. 
+2. Gambarlah Diagram Alir model tersebut (Orde 1) dengan kontroler P, PI dan PID 
+3. Lakukan Tuning PID menggunakan metode Zieger Nichols 
+4. Gambarkan dan jelaskan grafik respon transien dari masing" Kontroler P, PI dan PID. (untuk menggambar dapat menggunakan Aplikasi Matlab/ Python/ Lainnya) 
+
+Orde 2 
+1. Gambarlah diagram Alir model yang anda miliki (Orde 2) dengan kontroller P, PI dan PID. 
+2. Lakukan Tuning PID menggunakan metode zieger nichols. 
+3. Gambarkan dan jelaskan grafik respon transien dari masing" Kontroler P, PI dan PID. (untuk menggambar dapat menggunakan Aplikasi Matlab/ Python/ Lainnya) 
+
+
+
+
+ 
